@@ -3,3 +3,39 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+/* ======================= FOOTERS ======================= */
+footer {
+  background-color: black;
+  width: 100%;
+  color: white;
+  margin-top: 70px;
+  height: 60px;
+  padding: 20px;
+  position: static;
+  bottom: 0px;
+}
+
+/* home page */
+.staticFooter {
+  background-color: black;
+  width: 100%;
+  color: white;
+  margin-top: 70px;
+  height: 60px;
+  padding: 6px;
+  position: static;
+  bottom: 0px;
+}
+
+/* logout page */
+.absoluteFooter {
+  background-color: black;
+  width: 100%;
+  color: white;
+  margin-top: 70px;
+  height: 60px;
+  padding: 6px;
+  position: absolute;
+  bottom: 0px;
+}
