@@ -1,0 +1,15 @@
+{
+  "name": "ensemble-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JonHake18/ensemble-me.git",
+  "author": "Matthew Kelly",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0",
+    "path": "^0.12.7"
+  }
+}
